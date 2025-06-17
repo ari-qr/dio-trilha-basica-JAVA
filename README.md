@@ -4,6 +4,7 @@ Todos os exercício, desafios e projetos estão sendo realizados através da lei
 
 
 > [!NOTE]
-> IDE utilizada: IntelliJ IDEA Community Edition\
+> IDE utilizada nos exercícios 01 ao 04: IntelliJ IDEA Community Edition\
+> IDE utilizada nos outros exercicios, projetos e desafios: VSCode\
 > Linguagem: JAVA
   
